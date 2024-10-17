@@ -1,202 +1,123 @@
-[21:27:46] [ServerMain/WARN]: resource-pack-id missing, using default of 7c64750a-9b88-3112-9efb-317dee395574
-[21:27:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:27:49] [ServerMain/INFO]: Loaded 1290 recipes
-[21:27:49] [ServerMain/INFO]: Loaded 1399 advancements
-[21:27:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:27:50] [Server thread/INFO]: Loading properties
-[21:27:50] [Server thread/INFO]: Default game type: SURVIVAL
-[21:27:50] [Server thread/INFO]: Generating keypair
-[21:27:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:27:50] [Server thread/INFO]: Using default channel type
-[21:27:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:27:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:27:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:27:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:27:50] [Server thread/INFO]: Preparing level "world"
-[21:27:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:27:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:27:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:27:55] [Server thread/INFO]: Time elapsed: 1094 ms
-[21:27:55] [Server thread/INFO]: Done (5.039s)! For help, type "help"
-[21:28:20] [Server thread/INFO]: Luo[/172.27.59.238:54851] logged in with entity id 289 at (170.56603000205854, 68.9375, 95.64844735554234)
-[21:28:20] [Server thread/INFO]: Luo joined the game
-[21:28:28] [Server thread/INFO]: William[/172.27.241.246:53078] logged in with entity id 449 at (122.87395090089663, 40.0, 259.53999620333866)
-[21:28:28] [Server thread/INFO]: William joined the game
-[21:28:41] [Server thread/INFO]: [Not Secure] <Luo> dah bisa resource pack?
-[21:28:44] [Server thread/INFO]: zadle[/172.27.165.3:59059] logged in with entity id 663 at (154.55962361686272, 63.0, 91.71325819931569)
-[21:28:44] [Server thread/INFO]: zadle joined the game
-[21:28:47] [Server thread/INFO]: Pikkk[/172.27.180.236:53456] logged in with entity id 667 at (107.53020807806568, 78.0, 135.24196374176867)
-[21:28:47] [Server thread/INFO]: Pikkk joined the game
-[21:30:05] [Server thread/INFO]: [Not Secure] <Luo> daun lebih ril :v
-[21:38:11] [Server thread/INFO]: William was slain by Zombie
-[21:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[21:41:15] [Server thread/INFO]: Luo lost connection: Disconnected
-[21:41:15] [Server thread/INFO]: Luo left the game
-[21:41:22] [Server thread/INFO]: Pikkk was slain by Piglin
-[21:41:36] [Server thread/INFO]: Luo[/172.27.59.238:63568] logged in with entity id 5405 at (168.26795170422378, 69.0, 81.21115803714547)
-[21:41:36] [Server thread/INFO]: Luo joined the game
-[21:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[21:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[21:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[21:43:10] [Server thread/INFO]: zadle has made the advancement [Ice Bucket Challenge]
-[21:43:59] [Server thread/INFO]: Expected integer
-[21:43:59] [Server thread/INFO]: ...ging_sign  30<--[HERE]
-[21:44:03] [Server thread/INFO]: Gave 30 [Oak Hanging Sign] to Luo
-[21:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[21:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3958ms or 79 ticks behind
-[21:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
-[21:46:00] [Server thread/INFO]: zallism[/172.27.109.66:56219] logged in with entity id 6960 at (121.63703669953999, 82.0, 98.91832117394199)
-[21:46:00] [Server thread/INFO]: zallism joined the game
-[21:47:49] [Server thread/INFO]: Gave 3 [Iron Shovel] to Luo
-[21:48:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
-[21:48:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
-[21:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[21:49:37] [Server thread/WARN]: zadle moved too quickly! -7.4654020571861,0.0,7.146794353829243
-[21:51:04] [Server thread/INFO]: Pikkk tried to swim in lava
-[21:53:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[21:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:54:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
-[21:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4636ms or 92 ticks behind
-[21:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4176ms or 83 ticks behind
-[21:57:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9873ms or 197 ticks behind
-[21:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[22:00:03] [Server thread/INFO]: Gave 30 [Leather] to Luo
-[22:00:57] [Server thread/INFO]: Unknown item 'minecraft:sugarcane'
-[22:00:57] [Server thread/INFO]: give Luo minecraft:sugarcane 120<--[HERE]
-[22:01:01] [Server thread/INFO]: Gave 120 [Sugar Cane] to Luo
-[22:01:28] [Server thread/INFO]: Pikkk tried to swim in lava
-[22:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[22:02:06] [Server thread/INFO]: William tried to swim in lava
-[22:02:17] [Server thread/INFO]: zadle tried to swim in lava
-[22:02:18] [Server thread/INFO]: Gave 10 experience levels to Luo
-[22:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=30, z=-95} jd{x=46, y=30, z=-94}
-[22:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=30, z=-95} jd{x=46, y=30, z=-94}
-[22:05:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=30, z=-95} jd{x=46, y=30, z=-94}
-[22:06:43] [Server thread/INFO]: Gave 10 experience levels to Luo
-[22:07:23] [Server thread/INFO]: Gave 10 experience levels to Luo
-[22:08:08] [Server thread/INFO]: Gave 10 experience levels to Luo
-[22:09:21] [Server thread/INFO]: zallism tried to swim in lava
-[22:10:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:10:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=56, y=15, z=-107}
-[22:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
-[22:11:11] [Server thread/INFO]: zallism has made the advancement [Hidden in the Depths]
-[22:11:20] [Server thread/INFO]: [Not Secure] <Luo> nether portal dimane
-[22:11:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3114ms or 62 ticks behind
-[22:12:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[22:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
-[22:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4793ms or 95 ticks behind
-[22:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3000ms or 60 ticks behind
-[22:15:55] [Server thread/INFO]: Pikkk was doomed to fall by Piglin
-[22:15:55] [Server thread/INFO]: zadle was slain by Hoglin
-[22:16:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=16, z=-103} jd{x=4, y=18, z=-96}
-[22:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[22:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[22:17:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4988ms or 99 ticks behind
-[22:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
-[22:17:46] [Server thread/INFO]: zallism went up in flames
-[22:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[22:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3801ms or 76 ticks behind
-[22:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[22:19:12] [Server thread/WARN]: zallism moved too quickly! 9.906171697282872,-1.7967356006687112,-1.1842612858255848
-[22:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[22:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
-[22:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[22:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
-[22:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[22:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[22:21:45] [Server thread/INFO]: William hit the ground too hard
-[22:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22:23:05] [Server thread/INFO]: Pikkk fell from a high place
-[22:23:53] [Server thread/INFO]: Luo tried to swim in lava
-[22:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[22:24:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=13, z=-113} jd{x=46, y=14, z=-113}
-[22:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9162ms or 183 ticks behind
-[22:24:57] [Server thread/INFO]: William fell from a high place
-[22:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:26:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3336ms or 66 ticks behind
-[22:27:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=23, z=-145} jd{x=0, y=19, z=-146}
-[22:27:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=23, z=-145} jd{x=0, y=19, z=-146}
-[22:27:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=23, z=-145} jd{x=0, y=19, z=-146}
-[22:27:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=23, z=-145} jd{x=0, y=19, z=-146}
-[22:27:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=23, z=-145} jd{x=0, y=19, z=-146}
-[22:27:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[22:27:33] [Server thread/INFO]: zallism was killed by [Intentional Game Design]
-[22:27:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
-[22:28:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[22:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[22:28:50] [Server thread/INFO]: [Not Secure] <Pikkk> turu
-[22:28:55] [Server thread/INFO]: William lost connection: Disconnected
-[22:28:55] [Server thread/INFO]: William left the game
-[22:28:58] [Server thread/INFO]: [Not Secure] <Pikkk> Williamturu
-[22:29:00] [Server thread/INFO]: zadle lost connection: Disconnected
-[22:29:00] [Server thread/INFO]: zadle left the game
-[22:29:09] [Server thread/INFO]: zadle[/172.27.165.3:59313] logged in with entity id 28470 at (3.5977545926548697, 14.0, -35.23430732542845)
-[22:29:09] [Server thread/INFO]: zadle joined the game
-[22:29:20] [Server thread/INFO]: William[/172.27.241.246:53432] logged in with entity id 28709 at (113.69999998807907, 9.0, 295.30000001192093)
-[22:29:20] [Server thread/INFO]: William joined the game
-[22:29:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[22:30:17] [Server thread/INFO]: William was shot by Skeleton
-[22:30:46] [Server thread/INFO]: Pikkk fell from a high place
-[22:32:46] [Server thread/INFO]: Pikkk was slain by Zombie
-[22:32:53] [Server thread/INFO]: William fell from a high place
-[22:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[22:36:14] [Server thread/INFO]: zadle burned to death
-[22:39:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[22:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[22:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[22:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
-[22:40:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
-[22:42:56] [Server thread/INFO]: zallism tried to swim in lava
-[22:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[22:43:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[22:44:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[22:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22:44:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-353, y=67, z=138} jd{x=-352, y=67, z=138}
-[22:44:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-353, y=67, z=138} jd{x=-352, y=67, z=138}
-[22:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[22:45:35] [Server thread/INFO]: zadle lost connection: Disconnected
-[22:45:35] [Server thread/INFO]: zadle left the game
-[22:45:55] [Server thread/INFO]: Luo has completed the challenge [Hot Tourist Destinations]
-[22:47:23] [Server thread/INFO]: zallism tried to swim in lava
-[22:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[22:55:18] [Server thread/INFO]: William drowned
-[22:55:25] [Server thread/INFO]: William lost connection: Disconnected
-[22:55:25] [Server thread/INFO]: William left the game
-[22:55:28] [Server thread/INFO]: Pikkk drowned
-[22:58:13] [Server thread/INFO]: zallism was killed by [Intentional Game Design]
-[23:03:30] [Server thread/INFO]: zallism was killed by [Intentional Game Design]
-[23:05:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=238, y=104, z=467} jd{x=238, y=105, z=467}
-[23:06:54] [Server thread/INFO]: Luo fell from a high place
-[23:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[23:19:23] [Server thread/INFO]: zallism has completed the challenge [Return to Sender]
-[23:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[23:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[23:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[23:23:41] [Server thread/INFO]: Pikkk lost connection: Disconnected
-[23:23:41] [Server thread/INFO]: Pikkk left the game
-[23:23:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-149, y=69, z=-229} jd{x=-148, y=69, z=-229}
-[23:25:49] [Server thread/INFO]: zallism lost connection: Disconnected
-[23:25:49] [Server thread/INFO]: zallism left the game
-[23:27:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[23:28:09] [Server thread/INFO]: Set the time to 13000
-[23:28:18] [Server thread/INFO]: Set the time to 20000
-[23:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[23:29:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:29:12] [Server thread/INFO]: set weather rain<--[HERE]
-[23:29:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:29:22] [Server thread/INFO]: set weather rainy<--[HERE]
-[23:30:04] [Server thread/INFO]: Set the weather to rain
-[23:30:45] [Server thread/INFO]: Set the time to 1000
-[23:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[23:32:09] [Server thread/INFO]: Incorrect argument for command
-[23:32:09] [Server thread/INFO]: weather fog<--[HERE]
-[23:32:16] [Server thread/INFO]: Set the weather to clear
-[23:34:24] [Server thread/INFO]: Luo lost connection: Disconnected
-[23:34:24] [Server thread/INFO]: Luo left the game
+[00:00:08] [Server thread/WARN]: zadle moved too quickly! -3.109281174649709,0.15233518685055003,9.899487686757311
+[00:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[00:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[00:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[00:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3344ms or 66 ticks behind
+[00:02:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6327ms or 126 ticks behind
+[00:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[00:08:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[00:16:28] [Server thread/INFO]: BadenPowell[/172.27.102.108:50300] logged in with entity id 225309 at (211.32288443971868, 66.0, 284.30000001192093)
+[00:16:28] [Server thread/INFO]: BadenPowell joined the game
+[00:22:13] [Server thread/INFO]: Set Luo's game mode to Survival Mode
+[00:34:27] [Server thread/INFO]: zallism lost connection: Disconnected
+[00:34:27] [Server thread/INFO]: zallism left the game
+[00:34:43] [Server thread/INFO]: Unknown item 'minecraft:melon_block'
+[00:34:43] [Server thread/INFO]: give Luo melon_block 8<--[HERE]
+[00:34:46] [Server thread/INFO]: Unknown item 'minecraft:melon_blocks'
+[00:34:46] [Server thread/INFO]: give Luo melon_blocks 8<--[HERE]
+[00:34:51] [Server thread/INFO]: Gave 8 [Melon] to Luo
+[00:35:19] [Server thread/INFO]: Gave 12 [Melon] to Luo
+[00:36:12] [Server thread/INFO]: Gave 32 [Melon] to Luo
+[00:36:36] [Server thread/INFO]: Gave 32 [Melon] to Luo
+[00:37:25] [Server thread/INFO]: Gave 32 [Melon] to Luo
+[00:38:32] [Server thread/INFO]: zadle was shot by Skeleton
+[00:38:33] [Server thread/WARN]: zadle moved too quickly! -901.1999999880791,41.0,-3222.834857851062
+[00:52:40] [Server thread/INFO]: No entity was found
+[00:52:45] [Server thread/INFO]: Teleported Luo to Pikkk
+[00:52:45] [Server thread/WARN]: Luo moved too quickly! 2.8595979019847704,-128.0,-36.1237999291797
+[00:52:45] [Server thread/WARN]: Luo moved too quickly! 2.8595979019847704,-128.0,-36.1237999291797
+[00:52:45] [Server thread/WARN]: Luo moved too quickly! 2.8595979019847704,-128.0,-36.1237999291797
+[00:53:53] [Server thread/INFO]: Gave 1 [Command Block] to Luo
+[00:54:08] [Server thread/INFO]: BadenPowell has made the advancement [A Seedy Place]
+[00:55:32] [Server thread/INFO]: Expected a block position
+[00:55:32] [Server thread/INFO]: ...tblock 78 <--[HERE]
+[00:56:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:56:30] [Server thread/INFO]:  -48 53 spawner{SpawnCount:12,MaxNearbyEntities:32,Delay:50,MinSpawnDelay:50,MaxSpawnDelay:50,RequiredPlayerRange:64,SpawnData:{entity:{id:skeleton}}} replace<--[HERE]
+[00:56:35] [Server thread/INFO]: Could not set the block
+[00:56:52] [Server thread/INFO]: Changed the block at 78, -48, 52
+[00:57:14] [Server thread/INFO]: Changed the block at 78, -48, 56
+[00:59:42] [Server thread/INFO]: BadenPowell has made the advancement [The Parrots and the Bats]
+[01:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[01:02:44] [Server thread/INFO]: Gave 2 [Hopper] to Luo
+[01:07:01] [Server thread/INFO]: Changed the block at 78, -48, 52
+[01:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[01:13:31] [Server thread/INFO]: [Not Secure] <zadle> lagi ngaji
+[01:13:43] [Server thread/INFO]: [Not Secure] <Luo> lagi buangin semangka kali ah
+[01:15:41] [Server thread/INFO]: Luo was shot by Skeleton
+[01:15:43] [Server thread/WARN]: Luo moved too quickly! 29.03383408185617,132.0,60.91349809295665
+[01:15:43] [Server thread/WARN]: Luo moved too quickly! 29.03383408185617,132.0,60.91349809295665
+[01:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:16:47] [Server thread/INFO]: Unknown game mode: crative
+[01:16:47] [Server thread/INFO]: ...de crative Luo<--[HERE]
+[01:16:53] [Server thread/INFO]: Set Luo's game mode to Creative Mode
+[01:18:49] [Server thread/INFO]: Changed the block at 78, -48, 52
+[01:19:35] [Server thread/INFO]: Set Luo's game mode to Survival Mode
+[01:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[01:28:04] [Server thread/INFO]: Gave 30 experience levels to Luo
+[01:28:07] [Server thread/INFO]: [Not Secure] <zadle> pake semangka
+[01:28:56] [Server thread/INFO]: [Not Secure] <zadle> stick sama slab
+[01:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[01:30:24] [Server thread/INFO]: Gave 30 experience levels to Luo
+[01:30:38] [Server thread/INFO]: [Not Secure] <zadle> slab batu
+[01:31:57] [Server thread/INFO]: [Not Secure] <zadle> pake bedrock
+[01:33:08] [Server thread/INFO]: [Not Secure] <zadle> bisa ga pik
+[01:33:32] [Server thread/INFO]: [Not Secure] <Pikkk> bedrock nyari dimana
+[01:33:37] [Server thread/INFO]: Gave 50 experience levels to Luo
+[01:33:59] [Server thread/INFO]: [Not Secure] <zadle> rapi jangan boong
+[01:34:08] [Server thread/INFO]: [Not Secure] <BadenPowell> KACAU WKWK
+[01:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[01:34:54] [Server thread/INFO]: [Not Secure] <zadle> gw lupa nama nya
+[01:37:12] [Server thread/INFO]: [Not Secure] <zadle> stick+smooth stone slab
+[01:37:34] [Server thread/INFO]: [Not Secure] <zadle> cobblestone dibakar dlu
+[01:40:48] [Server thread/INFO]: Gave 1 [Enchanted Book] to Luo
+[01:42:08] [Server thread/INFO]: Gave 1 [Enchanted Book] to Luo
+[01:43:28] [Server thread/INFO]: BadenPowell lost connection: Disconnected
+[01:43:28] [Server thread/INFO]: BadenPowell left the game
+[01:43:31] [Server thread/INFO]: Luo lost connection: Disconnected
+[01:43:31] [Server thread/INFO]: Luo left the game
+[01:43:43] [Server thread/INFO]: [Not Secure] <zadle> udah
+[01:43:51] [Server thread/INFO]: BadenPowell[/172.27.102.108:54767] logged in with entity id 269075 at (186.52453389646652, 68.0, 44.67307883902529)
+[01:43:51] [Server thread/INFO]: BadenPowell joined the game
+[01:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[01:44:02] [Server thread/INFO]: Luo[/172.27.59.238:57426] logged in with entity id 269184 at (147.46735336001603, 59.0, 83.51249998807907)
+[01:44:02] [Server thread/INFO]: Luo joined the game
+[01:44:41] [Server thread/INFO]: [Not Secure] <zadle> pake kompor
+[01:46:17] [Server thread/INFO]: [Not Secure] <zadle> cek inven lu
+[01:46:30] [Server thread/INFO]: [Not Secure] <zadle> pake itu
+[01:46:38] [Server thread/INFO]: [Not Secure] <zadle> itu dikantong lu
+[01:46:47] [Server thread/INFO]: [Not Secure] <zadle> pake slab itu
+[01:46:52] [Server thread/INFO]: [Not Secure] <zadle> iya
+[01:46:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:48:44] [Server thread/INFO]: [Not Secure] <zadle> dahan, besok kuliah
+[01:49:15] [Server thread/INFO]: [Not Secure] <zadle> atmint, farm semangka lu gw bakar nanti
+[01:49:20] [Server thread/INFO]: [Not Secure] <Luo> waduh
+[01:49:34] [Server thread/INFO]: [Not Secure] <Pikkk> ngambeg
+[01:50:06] [Server thread/INFO]: zadle lost connection: Disconnected
+[01:50:06] [Server thread/INFO]: zadle left the game
+[01:54:52] [Server thread/INFO]: Set the time to 1000
+[02:03:55] [Server thread/INFO]: Set the weather to clear
+[02:06:23] [Server thread/INFO]: Set the time to 1000
+[02:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[02:21:47] [Server thread/INFO]: Set the weather to clear
+[02:32:08] [Server thread/INFO]: William lost connection: Disconnected
+[02:32:08] [Server thread/INFO]: William left the game
+[02:33:06] [Server thread/INFO]: Incorrect argument for command
+[02:33:06] [Server thread/INFO]: ...eleton}}} replace/setblock 78 -48 52 spawner{SpawnCount:12,MaxNearbyEntities:32,Delay:150,MinSpawnDelay:100,MaxSpawnDelay:350,RequiredPlayerRange:64,SpawnData:{entity:{id:skeleton}}} replace<--[HERE]
+[02:33:13] [Server thread/INFO]: Changed the block at 78, -48, 52
+[02:36:34] [Server thread/INFO]: BadenPowell lost connection: Disconnected
+[02:36:34] [Server thread/INFO]: BadenPowell left the game
+[02:36:43] [Server thread/INFO]: Luo lost connection: Disconnected
+[02:36:43] [Server thread/INFO]: Luo left the game
+[02:36:52] [Server thread/INFO]: BadenPowell[/172.27.102.108:57458] logged in with entity id 287689 at (151.38299141966164, 63.0, 91.8767292077138)
+[02:36:52] [Server thread/INFO]: BadenPowell joined the game
+[02:37:01] [Server thread/INFO]: Luo[/172.27.59.238:61581] logged in with entity id 287735 at (134.5, 43.173544821411944, 97.47645517858805)
+[02:37:01] [Server thread/INFO]: Luo joined the game
+[02:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[02:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02:48:45] [Server thread/INFO]: Luo lost connection: Disconnected
+[02:48:45] [Server thread/INFO]: Luo left the game
+[02:48:53] [Server thread/INFO]: BadenPowell lost connection: Disconnected
+[02:48:53] [Server thread/INFO]: BadenPowell left the game
+[02:48:55] [Server thread/INFO]: Pikkk lost connection: Disconnected
+[02:48:55] [Server thread/INFO]: Pikkk left the game
